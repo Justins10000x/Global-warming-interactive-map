@@ -1,4 +1,4 @@
-# Too Hot, Too Cold
+# Getting hot out here
 
 An interactive world map that shows how livable 70 places become as the planet warms. Drag the warming dial and every place gets a label, from **Brutal cold** through **Comfortable** to **Pretty hard to live** and **Dangerous heat**.
 
